@@ -4,8 +4,6 @@ Started from Visual Basic in 2012, I'm now main in Android Kotlin, Java, and Uni
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=samuelchou&show_icons=true&theme=monokai) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelchou&hide=jupyter%20notebook&theme=monokai)
-<!--(https://github.com/anuraghazra/github-readme-stats) -->
-
 
 <!--
 **samuelchou/samuelchou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
