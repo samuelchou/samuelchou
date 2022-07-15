@@ -1,4 +1,4 @@
-> 取之於 Github, 回饋於 GitHub.
+> 取之於 GitHub, 回饋於 GitHub.
 
 # Repo Helper
 
